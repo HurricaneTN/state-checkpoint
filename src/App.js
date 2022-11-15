@@ -12,7 +12,7 @@ export default class App extends React.Component {
       shows: false,
       person: {
         fullName: "Houssem Rouabeh",
-        bio: "Jeune Tunisien et future développeur",
+        bio: "Jeune Tunisien et Future développeur",
         imgSrc: myImage,
       },
     };
